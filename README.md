@@ -1,0 +1,2 @@
+# Melody
+Melody is an open source music streaming platform where we promote Indie artists and their works free of cost. It doesn’t matter here whether you are very popular Travis Scott or very underrated JayM, you would definitely be promoted based on your beautiful art. You certainly don’t need to be signed by big labels to promote your song. Our algorithm selects your song based upon the streaming time by various users.
